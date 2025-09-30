@@ -22,3 +22,4 @@ Golang Developer
 ## My activity stats
 ![alt text](https://github-readme-stats.vercel.app/api/wakatime?username=en7ka&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
 ## My contacts
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/en9ka)
