@@ -1,8 +1,9 @@
-Who am I?
+## Who am I?
 Golang Developer
-![alt text](https://komarev.com/ghpvc/?username=xddprog&color=ff69b4)
 
-Tools
+![alt text](https://komarev.com/ghpvc/?username=en7ka&color=ff69b4)
+
+## Languages and Tools
 ![alt text](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![alt text](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![alt text](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -16,10 +17,10 @@ Tools
 ![alt text](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![alt text](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-My stats
+## My stats
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=en7ka&theme=tokyonight&count_private=true&layout=donut)
-
 ![alt text](https://github-readme-stats.vercel.app/api?username=en7ka&show_icons=true&theme=tokyonight)
-My activity stats
+
+## My activity stats
 ![alt text](https://github-readme-stats.vercel.app/api/wakatime?username=en7ka&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
 My contacts
