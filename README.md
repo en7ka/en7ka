@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./god is great.jpeg" width="900">
+  <img src="./_.jpeg" width="900">
 </p>
 
 ## Who am I?
