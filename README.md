@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./78+ Jésus Wallpapers _ Free download _ Best Collection.jpeg" width="600">
+  <img src="./god is great.jpeg" width="600">
 </p>
 
 ## Who am I?
