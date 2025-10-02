@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./_.jpeg" width="900">
+  <img src="./Maple Leaves Landscape GIF.gif" width="100%">
 </p>
 
 ## Who am I?
