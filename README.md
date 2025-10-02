@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Jesus Ascension Wallpaper.jpeg" width="600">
+  <img src="./78+ Jésus Wallpapers _ Free download _ Best Collection.jpeg" width="600">
 </p>
 
 ## Who am I?
