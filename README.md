@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./moun.gif" width="100%">
+  <img src="./moun.gif" width="80%">
 </p>
 
 ## Who am I?
