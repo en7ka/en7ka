@@ -19,12 +19,6 @@ Golang Developer
 ![alt text](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![alt text](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
-## My stats
-![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=en7ka&theme=tokyonight&count_private=true&layout=donut)
-![alt text](https://github-readme-stats.vercel.app/api?username=en7ka&show_icons=true&theme=tokyonight)
-
-## My activity stats
-![alt text](https://github-readme-stats.vercel.app/api/wakatime?username=en7ka&show_icons=true&theme=tokyonight&count_private=true&layout=compact)
 ## My contacts
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/en9ka)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/damei.enik)
